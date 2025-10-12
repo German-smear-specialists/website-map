@@ -257,7 +257,7 @@ var simplemaps_usmap_mapdata={
     },
     TX: {
       name: "Texas",
-      url: "germansmear.com/german-smear-north-texas"
+      url: "/german-smear-north-texas"
     },
     NM: {
       name: "New Mexico",
