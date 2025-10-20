@@ -90,282 +90,336 @@ var simplemaps_usmap_mapdata={
       name: "Hawaii",
       inactive: "Yes",
       hide: "Yes",
-      url: "(blank)"
+      url: "(blank)",
+      description: "(blank)"
     },
     AK: {
       name: "Alaska",
       inactive: "Yes",
       hide: "Yes",
-      url: "(blank)"
+      url: "(blank)",
+      description: "(blank)"
     },
     FL: {
       name: "Florida",
-      url: "germansmear.com/german-smear-florida"
+      url: "/florida",
+      description: "German Smear locations in Florida"
     },
     NH: {
       name: "New Hampshire",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     VT: {
       name: "Vermont",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     ME: {
       name: "Maine",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     RI: {
       name: "Rhode Island",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     NY: {
       name: "New York",
-      url: "germansmear.com/german-smear-new-york"
+      url: "/new-york",
+      description: "German Smear locations in New York"
     },
     PA: {
       name: "Pennsylvania",
-      url: "germansmear.com/german-smear-pennsylvania"
+      url: "/pennsylvania",
+      description: "German Smear locations in Pennsylvania"
     },
     NJ: {
       name: "New Jersey",
-      url: "germansmear.com/german-smear-new-jersey"
+      url: "/new-jersey",
+      description: "German Smear locations in New Jersey"
     },
     DE: {
       name: "Delaware",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MD: {
       name: "Maryland",
-      url: "germansmear.com/german-smear-maryland"
+      url: "/maryland",
+      description: "German Smear locations in Maryland"
     },
     VA: {
       name: "Virginia",
-      url: "germansmear.com/german-smear-virginia"
+      url: "(blank)",
+      description: "German Smear locations in Virginia"
     },
     WV: {
       name: "West Virginia",
-      url: "germansmear.com/german-smear-west-virginia"
+      url: "(blank)",
+      description: "German Smear locations in West Virginia"
     },
     OH: {
       name: "Ohio",
-      url: "germansmear.com/german-smear-ohio"
+      url: "/ohio",
+      description: "German Smear locations in Ohio"
     },
     IN: {
       name: "Indiana",
-      url: "germansmear.com/german-smear-indiana"
+      url: "/indiana",
+      description: "German Smear locations in Indiana"
     },
     IL: {
       name: "Illinois",
-      url: "germansmear.com/german-smear-illinois"
+      url: "/illinois",
+      description: "German Smear locations in Illinois"
     },
     CT: {
       name: "Connecticut",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     WI: {
       name: "Wisconsin",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     NC: {
       name: "North Carolina",
-      url: "germansmear.com/german-smear-north-carolina"
+      url: "/north-carolina",
+      description: "German Smear locations in North Carolina"
     },
     DC: {
       name: "District of Columbia",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MA: {
       name: "Massachusetts",
-      url: "germansmear.com/german-smear-massachusetts"
+      url: "/massachusetts",
+      description: "German Smear locations in Massachusetts"
     },
     TN: {
       name: "Tennessee",
-      url: "germansmear.com/german-smear-tennessee"
+      url: "/tennessee",
+      description: "German Smear locations in Tennessee"
     },
     AR: {
       name: "Arkansas",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MO: {
       name: "Missouri",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     GA: {
       name: "Georgia",
-      url: "germansmear.com/german-smear-georgia"
+      url: "/georgia",
+      description: "German Smear locations in Georgia"
     },
     SC: {
       name: "South Carolina",
-      url: "germansmear.com/german-smear-south-carolina"
+      url: "/south-carolina",
+      description: "German Smear locations in South Carolina"
     },
     KY: {
       name: "Kentucky",
-      url: "germansmear.com/german-smear-kentucky"
+      url: "/kentucky",
+      description: "German Smear locations in Kentucky"
     },
     AL: {
       name: "Alabama",
-      url: "germansmear.com/german-smear-alabama"
+      url: "/alabama",
+      description: "German Smear locations in Alabama"
     },
     LA: {
       name: "Louisiana",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MS: {
       name: "Mississippi",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     IA: {
       name: "Iowa",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MN: {
       name: "Minnesota",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     OK: {
       name: "Oklahoma",
       inactive: "Yes",
-      hide: "Yes"
+      hide: "Yes",
+      url: "(blank)",
+      description: "(blank)"
     },
     TX: {
       name: "Texas",
-      url: "/german-smear-north-texas"
+      url: "/north-texas",
+      description: "German Smear locations in North Texas"
     },
     NM: {
       name: "New Mexico",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     KS: {
       name: "Kansas",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     NE: {
       name: "Nebraska",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     SD: {
       name: "South Dakota",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     ND: {
       name: "North Dakota",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     WY: {
       name: "Wyoming",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MT: {
       name: "Montana",
       inactive: "yes",
-      hide: "yes"
+      hide: "yes",
+      url: "(blank)",
+      description: "(blank)"
     },
     CO: {
       name: "Colorado",
-      url: "germansmear.com/german-smear-colorado"
+      url: "/colorado",
+      description: "German Smear locations in Colorado"
     },
     UT: {
       name: "Utah",
       inactive: "Yes",
       url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     AZ: {
       name: "Arizona",
       inactive: "Yes",
-      hide: "Yes"
+      hide: "Yes",
+      url: "(blank)",
+      description: "(blank)"
     },
     NV: {
       name: "Nevada",
       hide: "yes",
-      inactive: "yes"
+      inactive: "yes",
+      url: "(blank)",
+      description: "(blank)"
     },
     OR: {
       name: "Oregon",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     WA: {
       name: "Washington",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      url: "/west-virginia",
+      hide: "Yes",
+      description: "(blank)"
     },
     CA: {
       name: "California",
       inactive: "Yes",
-      url: "(blank)",
-      hide: "Yes"
+      hide: "Yes",
+      description: "(blank)"
     },
     MI: {
       name: "Michigan",
-      url: "germansmear.com/german-smear-michigan"
+      url: "/michigan",
+      description: "German Smear locations in Michigan"
     },
     ID: {
       name: "Idaho",
-      url: "(blank)",
-      hide: "yes"
+      hide: "yes",
+      description: "(blank)"
     },
     GU: {
       name: "Guam",
-      hide: "yes"
+      hide: "yes",
+      url: "(blank)",
+      description: "(blank)"
     },
     VI: {
       name: "Virgin Islands",
-      hide: "yes"
+      hide: "yes",
+      url: "/virginia",
+      description: "(blank)"
     },
     PR: {
       name: "Puerto Rico",
-      hide: "yes"
+      hide: "yes",
+      url: "(blank)",
+      description: "(blank)"
     },
     MP: {
       name: "Northern Mariana Islands",
-      hide: "yes"
+      hide: "yes",
+      description: "(blank)"
     },
     AS: {
       name: "American Samoa",
-      hide: "yes"
+      hide: "yes",
+      url: "(blank)",
+      description: "(blank)"
     }
   },
   locations: {},
